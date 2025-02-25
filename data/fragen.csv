@@ -1,0 +1,260 @@
+Frage,Antwort,Sven
+Definition Projekt,Ein Projekt ist im Wesentlichen durch die Einmaligkeit der Bedingungen in ihrer Gesamtheit definiert,TRUE
+Kriterien Projekt,"- einmalig (spezifisch, komplex, neuartig, interdiszuplinär)
+-  Zielvorgabe
+- zeitlich, finanziell und personell begrenzt",TRUE
+Definition Projektmanagement,"Projektmanagement ist die Gesamtheit von Führungsaufgaben, -techniken, -mitteln, und -organisation für die Initialisierung, Definition, Planung, Steuerung und den Abschluss von Projekten",TRUE
+Kriterien Projektmanagement,"- Steuerung
+- Kontrolle
+- Organisation
+- Planung
+- Prozess- und Methodenorientiert",TRUE
+Zielgrößen/Dimensionen Projektmanagement,"- Leistung
+- Kosten
+- Zeit
+Weiter: Stakeholder, Einsatzmittel",TRUE
+Zieleklassen für die Zuordnung und Definition von Zielen,"- Leistungsziele
+- Kostenziele
+- Terminziele",TRUE
+Zielegruppen für die Definition von Zielen,"- Ergenisziele
+- Vorgehensziele
+- Abgrenzungsziele",TRUE
+Funktion der Definition von Zielen,"- Orientierungsfunktion
+- Selektierungsfunktion
+- Verbindungsfunktion
+- Koordinierungsfunktion
+- Kontrollfunktion",TRUE
+Zielfindungsmethoden,"- SWOT-Analyse
+- SMART
+- Zieleklassifikation
+- Zielematrix",TRUE
+Methode für Zielverträglichkeit,Ziele-Beziehungs- bzw. Verträglichkeitsmatrix ,TRUE
+Akronym SMART,"- Spezifisch
+- Messbar
+- Attraktiv
+- Realistisch
+- Terminiert",TRUE
+Soziale Schlüsselfaktoren/Kompetenzen für den Projekterfolg,"- Charisma
+- Durchsetzungsvermögen
+- Teamfähigkeit
+- Überzeugungsgeschick
+- Reflexionsfähigkeit
+- Teamfähigkeit
+- Selbstdiziplin",TRUE
+Definition soziale Kompetenzen,"Unter sozialen Kompetenzen versteht man alle Fähigkeit, die für den Umgang mit Menschen erforderlich sind oder soziale Beziehungen stärken",TRUE
+Maßnahmen Konfliktprävention,"- Projektteamsitzungen, Prozess- und Teamreflexion
+- Festlegen von Verantwortlichkeiten
+- Teamentwicklung nach Teamentwicklungsphasen von Beginn an
+- Zugehörigkeit und Gemeinschaft
+- Klarheit und Transparenz",TRUE
+Methoden Konfliktbewältigung,"- Eisbergmodell
+- Konfliktgespräch
+- Gewaltfreie Kommunikation",TRUE
+Ebenen Eisbergmodell,"- Sachebene (20%)
+- Beziehungsebene (80%)",TRUE
+Phasen Konfliktgespräch,"- Vorbereiten
+- Warm-Up
+- Dialog
+- Lösungen",TRUE
+Phasen gewaltfreie Kommunikation,"- Beobachten
+- Gefühle
+- Bedürfnisse
+- Bitten",TRUE
+Phasen Teamentwicklung,"- Forming
+- Storming
+- Norming
+- Performing
+- Adjourning",TRUE
+Projekmanagement-Methoden-Standards,"- IPMA (GPM)
+- Prince2
+- PMPOK (PMI)
+- SCRUM
+- V-Modell XT",TRUE
+Projektarten,"- Internes Projekt
+- Externes Projekt
+- Forschungsprojekt/Entwicklungsprojekt
+- Organisationsprojekt
+- Investitionsprojekt",TRUE
+Projektrollen,"- Projektleiter:in (intern, extern)
+- Projektmitarbeiter:in (intern, extern)
+- Auftraggeber:in (intern, extern)",TRUE
+Projektorganisationen,"- Stabs- bzw. Einflussorganisation
+- Autonome bzw. reine Projektorganisation
+- Matrix-Projektorganisation",TRUE
+Verantwortung Projektleiter Stabs- bzw. Einflussorganisation,"In der Stabs- bzw. Einflussorgansation hat der Projektleiter keine fachliche und diziplinarische Verantwortung, nur eine Beratungsfunktion",TRUE
+Verantwortung Projektleiter Autonomen- bzw. reinen Projektorganisation,In der automomen bzw. reinen Projektorganisation hat der Projektleiter alleinige fachliche und disziplinarische Verantwortung,TRUE
+Verantwortung Projektleiter Matrix-Projektorganisation,In der Matrix-Projektorganisation hat der Projektleiter nur die fachliche Verantwortung,TRUE
+Definition Projektphase,"Eine Projektphase ist ein abgeschlossener Teil eines Projektes, in dem definierte Aktivitäten durchgeführt werden",TRUE
+Phasen Projektmanagement,"- Initialisierung
+- Definition
+- Planung
+- Steuerung
+- Abschluss",TRUE
+Defintion Meilenstein,Ein Meilenstein ist ein Ereignis mit großer Bedeutung in der Projektplanung.,TRUE
+Definition Meilenstein 2,Ein Meilenstein ist ein Zwischenziel in einem Projekt und ermöglicht die Unterteilung des Projektplans in verschiedene Etappen,FALSE
+Grundformen Projektstrukturplan,"- Phasenorientierter Projektsrtrukturplan
+- Funktionsorientierter Projektstrukturplan
+- Objektorientierter Projektstrukturplan ",TRUE
+Definition Arbeitspaket,Ein Arbeitspaket ist die kleinste Einheit (an Arbeit) im Projektstrukturplan,TRUE
+Wozu Einsatzmittelplanung?,"Einsatzmittelplanung dient der Schätzung der Art und Menge der Einsatzmittel (Personen, Geräte, Material), die für die Ausführung von Arbeitspaketen erforderlich sind",TRUE
+Wozu Kostenplanung?,In der Kostenplanung werden sämtliche geschätzte und ermittelte Kosten des Projektes zusammengefasst.,TRUE
+Ziele Kostenplanung,"- Einordnung des Projektes in den wirtschaftlichen Kontex des Unternehmens
+- Aufsplittung Personal und Sachkosten
+- Grundlage für das Festlegen von Budgets und Verbrauchsgrenzen",TRUE
+Methoden (graphische Darstellung) Kostenverteilung im Zeitverlauf,"- Kostenganglinie
+- Kostensummenlinie",TRUE
+Wozu Projektablaufplan?,Der Projektablaufplan stellt definierte Arbeitspakete in einen zeitlichen Ablauf dar,TRUE
+Grundlage Projektablaufplan,Die Grundlage des Projektablaufplans bildet der Projektstrukturplan,TRUE
+Wozu Kommunikationsplan?,Ein Kommunikationsplan regelt die Informationsverteilung innerhalb des Projektes und zum Projektumfeld,TRUE
+Welche Zustände werden im Projekt-Controlling abgeglichen,Im Projekt-Controlling werden Soll- und Ist-Zustand miteinander abgeglichen,TRUE
+Definition Projektkontrolling,Projekt-Controlling ist die laufende Überwachung eines Projektes,TRUE
+Aufgaben Projekt-Controlling,"- Projektfortschriff überwachen
+- Projektstatus erheben
+- Soll- und Ist-Zustand abgleichen
+- Problemsituationen frühzeitig erkennen",TRUE
+Methoden zur Kontrolle und Steuerung von Projekten,"- Projektablaufplan
+- Meilensteinplan
+- Fortschrittsmessung Arbeitspakete
+- Arbeitszeiterfassung
+- Statusbesprechungen, Statusmeldungen, Statusberichte",TRUE
+Methoden Terminkontrolle,"- Projektablaufplan
+- Meilensteinpan
+- Terminlisten
+- Gantt-Diagramm",TRUE
+Definition Risiko,Ein Risiko ist ein unsicheres Ereignis mit negativen Auswirkungen in der Zukunft,TRUE
+Risikostrategien,"- vermeiden
+- verlagern
+- verminden/begrenzen
+- akzeptieren",TRUE
+nicht tolerierbare Risiken,"- Gefahr für Leib und Leben
+- Gefahr für die Umwelt
+- Gefahr der Unternehmensexistenz
+- Gefahr durch Diskriminierung",TRUE
+Methoden Identifikation Risiken,"- Brainstorming
+- Mind Mapping
+- Ishikawa-Methode
+- SWOT-Analyse",TRUE
+Risikokategorien,"- Leistungsrisiken
+- Kaluklationsrisiken
+- Terminrisiken",TRUE
+Defintion Änderung,Eine Änderung ist eine Abweichung von der ursprünglichen Projektplanung,TRUE
+Änderungsgruppen,"- Leistungsänderung
+- Kostenänderung
+- Zeitänderung",TRUE
+Formales Anzeigen von Änderungen,"- Behinderungsanzeige
+- Nachtrag
+- Abweichungsanzeige",TRUE
+Dokumente Berichtswesen,"- Statusbericht
+- Budgetplan
+- Projekthandbuch
+- Projektabschlussbericht
+- Vertragsunterlagen
+- Vergabeunterlagen",TRUE
+Wozu Projekttagebuch?,Ein Projekttagebuch dient als intere Informationsquelle für Projektereignisse und für die durchgeführten Projektentscheidungen,TRUE
+Aufgaben Projektabschluss,"- Projektabschluss vorbereiten
+- Projektdokumente sichern
+- Projektabschlusssitzung durchführen
+- Projektgruppe auflösen
+- Projektorganisation auflösen",TRUE
+Wozu Abnahme und Freigabe von Projektergebnissen?,Projektergebnisse werden durch den Auftraggeber freigegeben um den Projektleiter zu entlasten,TRUE
+Wozu Abschlusspräsentation?,Ziel der Abschlusspräsentation ist die formale Übergabe der Projektergebnisse durch die durch den Auftragnehmer mit dem Ziel der Freigabe durch den Auftraggeber,TRUE
+Methode Darstellung Projektrolle und Funktion von Projektbeteilgten,"Mit Hilfe der AKV-Matrix kann die Projektrolle, Funktion, Aufgabe, Kompetenz und Verantwortung von Projektbeteiligten dargestellt werden",TRUE
+Akronym AKV,"- Aufgabe
+- Kompetenz
+- Verantwortung",TRUE
+Definition Stakeholder,Ein Stakeholder ist eine Person oder Gruppe welche unmittelbar in das Projekt eingebunden oder mittelbar daran beteiligt ist und Einfluss auf das Projekt hat,TRUE
+Stakeholdern von Projekten,"- Projektleiter:in (intern, extern)
+- Projektmitarbeiter:in (intern, extern)
+- Auftraggeber:in
+- Dienstleister
+- Projektsponsor",TRUE
+Kreativitätstechniken,"- Brainstorming
+- Mindmapping
+- Ishikawa-Methode
+- Big Picutre
+- Nutzwertanalyse",TRUE
+Definition Projektsteckbrief,Ein Projektsteckbrief ist ein standardisiertes Dokument mit den wichtigsten Eckdaten eines Projektes,TRUE
+Definition Lastenheft,Im Lastenheft werden die zu erbringenden Leistungs- und Lieferumfang durch den Auftraggeber spezifiziert,TRUE
+Definition Pflichtenheft,"Im Pflicktenheft wird die Realisierung der Kundenanforderung seitens des Auftragnehmers beschrieben, welche im Lastenheft gefordert sind",TRUE
+Aufgaben Projektstart,"- Projektziel definieren
+- Einsatzmittel bereitstellen
+- Zeitrahmen definieren
+- Stakeholder analysieren",TRUE
+primäre Ziele Projektstart,"- Projektziele und Anforderungen spezfizieren
+- Benötigte Einsatzmittel, personelle, finanzielle Ressourcen bereitstellen
+- Erwartungen der Stakeholder klären
+- Informationsgrundlage schaffen, damit Beteiligte Inhalte verstehen",TRUE
+Ebenen strategischer Planungsprozess,"- Vision
+- Mission
+- Strategie
+- Ziele
+- Maßnahmen",TRUE
+Akronym SWOT,"- Strengths
+- Weaknesses
+- Opportunities
+- Threats",TRUE
+Methoden Ergebung und Analyse von Umfeldinformationen,"- Analyse von sachlichen und sozialen Einflussfaktoren
+- Stakeholderanalyse
+- Risikoanalyse
+- SWOT-Analyse",TRUE
+Einflussfaktoren Umfeldanalyse,"- Soziale Faktoren
+- Sachliche Faktoren",TRUE
+Risiko-Gegenmaßnahmen,"- Präventive Maßnahmen
+- Korrektive Maßnahmen",TRUE
+Ursachen Scheitern Projekt,"- Schlechte Kommunikation
+- Unklare Anforderungen
+- Kompetenzstreit
+- Fehlende Ressourcen
+- Mangel an qualifizierten Mitarbeiter:innen",TRUE
+Erfolgsfaktoren Projektmitarbeiter,Know-How des Projektteams,FALSE
+Erfolgsfaktoren Unternehmensleitung,Unterstützung Projektleiter,FALSE
+Erfolgsfaktoren Projektleiter,"- PM-Handbuch und Projekthandbuch
+- Klare Zieldefinition
+- Professionelle Planung
+- Projektkommunikation
+- Klare Arbeitsteilung und Rollenvergabe",FALSE
+Definition Projektkultur,"Die Projektkultur sind alle Werte, Grundnormen, Einstellung, Erfolgs- und Orientierungsmuster für die Projektbeteiligten. Die Projektkutlur ist ein entscheidender Faktor des Projektmanagements",FALSE
+Konfliktpräventive Verhaltensweisen,"- PM spricht brennende Themen offen an
+- PM greif bei Kontroversen vermittelnd ein
+- PM hat offenes Ohr für alle Interessengruppen",FALSE
+Arten Zielbeziehung,"- Zielidentität
+- Zielkomplementarität
+- Zielneutralität
+- Zielkonkurrenz
+- Zielantinomie",FALSE
+Stakeholder-Tabelle,"Auflistung Stakeholder nach Position, Interesse, Einfluss, Einstellung, Konfliktpotential",FALSE
+Stakeholder 9-Felder Portfolio,"9 Felder nach hoch/mittel/niedrig von Einstellung ein Einfluss
+- Promotor
+- Multiplikator
+- Opponent",FALSE
+Stakeholder 4-Felder Portfolio,4 Felder nach niedrig/hoch von Konfilktpotential und Einfluss,FALSE
+Strategien Stakeholdersteuerung,"- Partizipative Strategien
+- Diskursive Stragien
+- Restriktve Strategien
+- Informative Strategien",FALSE
+Auswirkungen Risiko,"- Erhöung Projektkosten
+- Unzufriedene Beteiligte
+- Projektabbruch, -fortführung, -sanierung, relaunch, -beratung",FALSE
+Formel Risikowert,"""= eintrittswahrscheinlichkeit * Tragweite",FALSE
+Definition Projektstrukturplan,Ein Projektstrukturplan ist die Gliederung eines Projektes in seine einzelnen Elemente (Arbeitspakete). Ziel ist es alle Projektinhalte in plan- und kontrollierbare Teilaufgaben und abgrenzbare Arbeitspakete zu unterteilen,FALSE
+Definition objektorientierter Projektstrukturplan,Bei der objektorientiertes Darstellung steht das Ergebnis der Aufgabe im Vordergurnd,FALSE
+Definition funktionsorientierter Projektstrukturplan,Bei der funktionsorientierten Darstellung steht die Funktion der Erfüllung einer Aufgabe im Vordergrund,FALSE
+Definition phasenorientierter Projektstrukturplan,Bie der phasenorientierten Darstellung steht der zeitliche Ablauf der Aufgaben im Vordergrund,FALSE
+Definiton Arbeistpaket 2,"Ein Arbeitspaket ist ein klar definierter Bestandteil des Projektinhhalts, hat klare Ziele, Umfang, Start und Endtermine, Ressourcen und Verantwortlichkeiten. Ein Arbeitspaket repräsentiert eine klar definierte und geschlossene Aufgabne innerhalb eines Projektes.",FALSE
+Ziel Einsatzmittelplannung,"- Bedarfsplanung
+- Ermittlung verfügbare Kapazitäten
+- Ermittlung Enpässe
+- Kosten- und Budgetkontrolle",FALSE
+Ziel Personalbedarfsplanung,- Ermittlung des Kapazitätsbedarfs,FALSE
+Formal Vorgangsdauer,“= Kapazitätsbedarf / Mitarbeiter-Anzahl,FALSE
+Definition Projelktablaufplan,Ein Projektablaufplan basiert auf dem Projektstrukturplan und kombiniert Arbeitspakete im zeitlichen Ablauf,FALSE
+Projektstrukturplan als Netzplan,DIN 69600: graphische Darstellung einer Ablaufstruktur aus Vorgängen und Anordnungsbeziehungen,FALSE
+Ziel Kommuniationsplanung,"- Planung Kommunikationsstruktur und -verteilung
+- Zielgerichteter Austausch von Informationen zwischen Stakeholdern
+- Lieferung der richtigen Informationsinhalte zur richtigen Zeit",FALSE
+Methoden Konstenkontrolle,"- Earned Value Analyse
+- Meilensteintrendanalyse mit Kostenkontrolle",FALSE
+Zielgrößen Earned Value Analyse,"- Plan-Kosten
+- Ist-Kosten
+- Fertigstellungswert
+- Ewartete Gesamtkosten",FALSE
