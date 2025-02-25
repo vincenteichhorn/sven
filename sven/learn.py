@@ -46,23 +46,41 @@ if __name__ == "__main__":
 
     df = pd.read_csv(args.file)
 
-    cache_file_name = f"{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}_answers.csv"
+    cache_file_name = f"{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}_answers"
 
     if not args.all:
         df = df[df["Sven"]]
 
-    df["done"] = False
-    df["score"] = 0.0
+    if "cache" not in args.file:
+        df["done"] = False
+        df["versuche"] = 0
+        df["score"] = 0.0
+
+    df = df.sample(frac=1)
 
     while len(df[~df["done"]]) > 0:
         cls()
-        rand_idx = random.choice(df[~df["done"]].index)
-        row = df[~df["done"]].iloc[rand_idx]
+        idx = 0  # random.choice(range(len(df[~df["done"]])))
+        row = df[~df["done"]].iloc[idx]
         print(
             f"#{row.name}/{len(df)},",
             f"Done: {len(df[df['done']])}/{len(df)}{',' if args.game else ''}",
-            f"Score: {float(df['score'].sum()):.2f}/{len(df)}" if args.game else "",
+            (
+                f"Sum Score: {float(df['score'].sum()):.2f}/{len(df)}, Mean Score: {float(df.loc[df["score"] > 0, "score"].mean())}"
+                if args.game
+                else ""
+            ),
         )
+        print(
+            "Versuche: ",
+            ", ".join(
+                [
+                    f"{name}: {val}"
+                    for name, val in df.groupby("versuche").size().items()
+                ]
+            ),
+        )
+        df.loc[row.name, "versuche"] += 1
         with print_in_box():
             print(f"Frage: {Color.BOLD + row["Frage"] + Color.END}")
         with print_in_box(top=False):

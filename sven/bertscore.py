@@ -5,7 +5,7 @@ berscore = load("bertscore")
 
 def judge(target, user):
     res = berscore.compute(predictions=[user], references=[target], lang="de")
-    return float(res["f1"][0])
+    return float(res["recall"][0])
 
 
 if __name__ == "__main__":
